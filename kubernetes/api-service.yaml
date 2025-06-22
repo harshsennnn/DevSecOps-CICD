@@ -39,4 +39,4 @@ spec:
     app: api-service
   ports:
     - port: 8000
-      targetPort: 
+      targetPort: 8000
